@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:simple_todo_app/domain/core/utils/snackbar.util.dart';
 
-import '../../domain/core/constants/constants.dart';
+import '../../../../core/constants/constants.dart';
+import '../../core/utils/snackbar.util.dart';
 import '../../domain/entities/todo_model.dart';
 
 import 'package:get/get.dart';
