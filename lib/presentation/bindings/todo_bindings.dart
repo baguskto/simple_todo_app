@@ -1,6 +1,5 @@
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:simple_todo_app/domain/core/utils/snackbar.util.dart';
 import 'package:simple_todo_app/presentation/controllers/loading.controller.dart';
 import '../../domain/repositories/todo_repository.dart';
 import '../../domain/uses_cases/add_todo_use_case.dart';

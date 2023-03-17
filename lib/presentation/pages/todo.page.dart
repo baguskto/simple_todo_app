@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../domain/core/constants/constants.dart';
+import '../../core/constants/constants.dart';
 import '../controllers/todo.controller.dart';
 import '../widgets/loading/base.widget.dart';
 import '../widgets/todo_list_item.dart';

@@ -1,5 +1,5 @@
 import 'package:get_storage/get_storage.dart';
-import '../../../../domain/core/constants/constants.dart';
+import '../../../../core/constants/constants.dart';
 import '../../../../domain/entities/todo_model.dart';
 
 class LocalTodoDataSource {

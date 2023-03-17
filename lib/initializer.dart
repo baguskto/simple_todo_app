@@ -1,16 +1,9 @@
-// import '/config.example.dart';
-// import '/domain/core/utils/snackbar.util.dart';
-// import '/infrastructure/navigation/bindings/domains/auth.repository.binding.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:simple_todo_app/config.dart';
-import 'package:logger/logger.dart';
 
-import 'domain/core/constants/storage.constants.dart';
-import 'domain/core/utils/snackbar.util.dart';
-// import 'infrastructure/navigation/routes.dart';
+
 
 import 'presentation/controllers/loading.controller.dart';
 
